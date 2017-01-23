@@ -1,0 +1,2118 @@
+fileFormatVersion: 2
+guid: 17d8fa1831ca26442bd55fd46feed1a7
+timeCreated: 1485079601
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base.obj
+    100002: base.obj_MeshPart0
+    100004: base.obj_MeshPart1
+    100006: base.obj_MeshPart2
+    100008: base.obj_MeshPart3
+    100010: base.obj_MeshPart4
+    100012: base.obj_MeshPart5
+    100014: Bone
+    100016: Bone.001
+    100018: Bone.002
+    100020: Bone.003
+    100022: Bone.004
+    100024: Bone.005
+    100026: Bone.005_end
+    100028: Bone.006
+    100030: Bone.007
+    100032: Bone.008
+    100034: Bone.009
+    100036: Bone.010
+    100038: Bone.011
+    100040: Bone.012
+    100042: Bone.012_end
+    100044: Bone.013
+    100046: Bone.013_end
+    100048: Bone.014
+    100050: Bone.015
+    100052: Bone.016
+    100054: Bone.017
+    100056: Bone.018
+    100058: Bone.019
+    100060: Bone.020
+    100062: Bone.020_end
+    100064: Bone.021
+    100066: Bone.021_end
+    100068: Bone.022
+    100070: Bone.022_end
+    100072: Bone.023
+    100074: Bone.023_end
+    100076: Bone.025
+    100078: Bone.026
+    100080: Bone.027
+    100082: Bone.028
+    100084: Bone.029
+    100086: Bone.029_end
+    100088: player_boneset
+    100090: //RootNode
+    400000: base.obj
+    400002: base.obj_MeshPart0
+    400004: base.obj_MeshPart1
+    400006: base.obj_MeshPart2
+    400008: base.obj_MeshPart3
+    400010: base.obj_MeshPart4
+    400012: base.obj_MeshPart5
+    400014: Bone
+    400016: Bone.001
+    400018: Bone.002
+    400020: Bone.003
+    400022: Bone.004
+    400024: Bone.005
+    400026: Bone.005_end
+    400028: Bone.006
+    400030: Bone.007
+    400032: Bone.008
+    400034: Bone.009
+    400036: Bone.010
+    400038: Bone.011
+    400040: Bone.012
+    400042: Bone.012_end
+    400044: Bone.013
+    400046: Bone.013_end
+    400048: Bone.014
+    400050: Bone.015
+    400052: Bone.016
+    400054: Bone.017
+    400056: Bone.018
+    400058: Bone.019
+    400060: Bone.020
+    400062: Bone.020_end
+    400064: Bone.021
+    400066: Bone.021_end
+    400068: Bone.022
+    400070: Bone.022_end
+    400072: Bone.023
+    400074: Bone.023_end
+    400076: Bone.025
+    400078: Bone.026
+    400080: Bone.027
+    400082: Bone.028
+    400084: Bone.029
+    400086: Bone.029_end
+    400088: player_boneset
+    400090: //RootNode
+    4300000: base.obj_MeshPart0
+    4300002: base.obj_MeshPart1
+    4300004: base.obj_MeshPart2
+    4300006: base.obj_MeshPart3
+    4300008: base.obj_MeshPart4
+    4300010: base.obj_MeshPart5
+    7400000: player_boneset|base.obj.005Action
+    7400002: player_boneset|Player_DrawGun
+    7400004: player_boneset|Player_FireWeap
+    7400006: player_boneset|Player_Idle
+    7400008: player_boneset|Player_jumping
+    7400010: player_boneset|Player_jumping_phase 2
+    7400012: player_boneset|Player_jumping_phase 2p2
+    7400014: player_boneset|Player_jumping_phase FIN
+    7400016: player_boneset|Player_jumping_phase_FINISH
+    7400018: player_boneset|Player_Plib
+    7400020: player_boneset|Player_runL
+    7400022: player_boneset|Player_runL_Loop
+    7400024: player_boneset|Player_runR
+    7400026: player_boneset|Player_runR_loop
+    7400028: player_boneset|Player_runR_loop.001
+    7400030: player_boneset|Punk_poslib
+    9500000: //RootNode
+    11100000: base.obj_MeshPart0
+    11100002: //RootNode
+    13700000: base.obj_MeshPart1
+    13700002: base.obj_MeshPart2
+    13700004: base.obj_MeshPart3
+    13700006: base.obj_MeshPart4
+    13700008: base.obj_MeshPart5
+    13700010: base.obj_MeshPart0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: player_boneset|base.obj.005Action
+      takeName: player_boneset|base.obj.005Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_DrawGun
+      takeName: player_boneset|Player_DrawGun
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_FireWeap
+      takeName: player_boneset|Player_FireWeap
+      firstFrame: 0
+      lastFrame: 3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_Idle
+      takeName: player_boneset|Player_Idle
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_jumping
+      takeName: player_boneset|Player_jumping
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_jumping_phase 2
+      takeName: player_boneset|Player_jumping_phase 2
+      firstFrame: 0
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_jumping_phase 2p2
+      takeName: player_boneset|Player_jumping_phase 2p2
+      firstFrame: 0
+      lastFrame: 13.5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_jumping_phase FIN
+      takeName: player_boneset|Player_jumping_phase FIN
+      firstFrame: 0
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_jumping_phase_FINISH
+      takeName: player_boneset|Player_jumping_phase_FINISH
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_Plib
+      takeName: player_boneset|Player_Plib
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_runL
+      takeName: player_boneset|Player_runL
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_runL_Loop
+      takeName: player_boneset|Player_runL_Loop
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_runR
+      takeName: player_boneset|Player_runR
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_runR_loop
+      takeName: player_boneset|Player_runR_loop
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Player_runR_loop.001
+      takeName: player_boneset|Player_runR_loop.001
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_boneset|Punk_poslib
+      takeName: player_boneset|Punk_poslib
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base.obj
+        weight: 1
+      - path: base.obj/base.obj_MeshPart0
+        weight: 1
+      - path: base.obj/base.obj_MeshPart1
+        weight: 1
+      - path: base.obj/base.obj_MeshPart2
+        weight: 1
+      - path: base.obj/base.obj_MeshPart3
+        weight: 1
+      - path: base.obj/base.obj_MeshPart4
+        weight: 1
+      - path: base.obj/base.obj_MeshPart5
+        weight: 1
+      - path: player_boneset
+        weight: 1
+      - path: player_boneset/Bone
+        weight: 1
+      - path: player_boneset/Bone/Bone.001
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.018/Bone.022/Bone.022_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.002/Bone.014/Bone.016/Bone.020/Bone.020_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.019/Bone.023/Bone.023_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.003/Bone.015/Bone.017/Bone.021/Bone.021_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: player_boneset/Bone/Bone.001/Bone.004/Bone.005/Bone.005_end
+        weight: 1
+      - path: player_boneset/Bone/Bone.025
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029
+        weight: 1
+      - path: player_boneset/Bone/Bone.025/Bone.026/Bone.027/Bone.028/Bone.029/Bone.029_end
+        weight: 1
+      - path: player_boneset/Bone.006
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012
+        weight: 1
+      - path: player_boneset/Bone.006/Bone.008/Bone.010/Bone.012/Bone.012_end
+        weight: 1
+      - path: player_boneset/Bone.007
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013
+        weight: 1
+      - path: player_boneset/Bone.007/Bone.009/Bone.011/Bone.013/Bone.013_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
